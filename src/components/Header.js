@@ -24,7 +24,7 @@ export default function Header() {
           about ReactJS and CSS.
         </h5>
         <div className="img-position">
-          <img src={d20} className="d20" />
+          <img src={d20} className="d20" alt="d20 image" />
         </div>
       </div>
     </header>

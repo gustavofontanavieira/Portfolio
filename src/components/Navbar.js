@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="name-logo">
-        <img src={atomoLogo} />
+        <img src={atomoLogo} alt="atomo logo" />
         <h3>Gustavo Fontana</h3>
       </div>
       <div className="nav-items">
