@@ -10,18 +10,17 @@ export default function Header() {
       </div>
       <div className="about-me">
         <h5>
-          My name is Gustavo Fontana Vieira, im 18 years old, a brazilian high
-          school student and Developer System Technician by ETEC Antônio Furlan.
+          My name is Gustavo Fontana Vieira. 
+I'm 18 years old, a brazilian high school student and Developer System Technician by ETEC Antônio Furlan.
         </h5>
         <br />
         <h5>
-          I have knowledge about JavaScript, TypeScript, NodeJS, NestJS,
+          I have knowledge in JavaScript, TypeScript, NodeJS, NestJS,
           Sequelize, TypeORM and Express. JavaScript being my "main language".
         </h5>
         <br />
         <h5>
-          Im focusing in study front-end development and aprofuding my knowledge
-          about ReactJS and CSS.
+          I'm focusing my studies in front-end development and improving my knowledge in ReactJS and CSS.
         </h5>
         <div className="img-position">
           <img src={d20} className="d20" alt="d20" />
